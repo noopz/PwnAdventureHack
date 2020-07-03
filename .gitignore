@@ -1,0 +1,8 @@
+.vs
+ACubeRE*
+**.user
+**.filter*
+cpp.hint
+**Debug/
+**Release/
+pa3re/
